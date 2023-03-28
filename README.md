@@ -1,4 +1,3 @@
-_printf
 Hello, welcome to our first group project, we are Writing our own printf() fucntion from the C Standard Library.
 
 Tasks
